@@ -63,7 +63,7 @@ $| = 1;
 #   User defined parameters:    #
 # ----------------------------- #
 # Speech API key                #
-my $key = "AIzaSyBTkMZfRA0g_Aog3tqZYcAjpTLxf_nCuqA";
+my $key = "YOUR GOOGLE SPEECH API KEY";
 
 # Default language              #
 my $language = "en-US";
